@@ -44,6 +44,19 @@ body {
 	color: burlywood;
 }
 
+a.align-btn-center {
+	width: 100%;
+	height: auto;
+	margin: 4px;
+	text-align: center;
+}
+
+.card {
+	width: 100%;
+	height: auto;
+	align-content: center;
+}
+
 .content-bottom {
 	bottom: 25px;
 	height: auto;
